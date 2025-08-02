@@ -1,5 +1,9 @@
 # Basreng Garing – Website Branding Camilan Pedas Kriuk
 
+Nama   : Dina Safitri
+Nim    : 23110310019
+Prodi  : Bisnis Digital 4C
+
 ## 📝 Deskripsi Proyek
 
 Website ini dibuat sebagai media branding untuk produk camilan _Basreng Garing_, yang menyasar anak muda dengan gaya komunikasi yang santai, emosional, dan relatable. Proyek ini merupakan bagian dari tugas akhir mahasiswa Bisnis Digital, dengan fokus pada pengembangan website menggunakan WordPress dan strategi branding digital.
@@ -14,7 +18,7 @@ Website ini dibuat sebagai media branding untuk produk camilan _Basreng Garing_,
 ## 👥 Target Audience
 
 - Konsumen yang mencari camilan pedas, gurih, dan punya karakter unik.
-- Pengguna media sosial yang tertarik dengan brand yang punya “suara” dan kepribadian.
+- Pengguna media sosial yang tertarik dengan brand yang punya “suara” dan ciri khas.
 - Remaja dan mahasiswa yang suka ngemil dan nongkrong.
 
 ## 🔄 Proses Pengembangan
@@ -62,9 +66,9 @@ Website ini dibuat sebagai media branding untuk produk camilan _Basreng Garing_,
 
 ## 👩‍💻 Pengembang
 
-**Dina**  
+**Dina Safitri**  
 Brand Creator & Web Developer  
-Website & Branding by: Dina  
+Website & Branding by: Dina Safitri
 📂 Repo: `Kelas-PakAR-PerancanganWebDanDesainGrafis`
 
 ---
